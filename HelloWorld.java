@@ -5,5 +5,6 @@ System.out.println("hello manohar");
 int a=10;
   int u=100;
   string h="manohar";
+  int y=100;
 }
 }
